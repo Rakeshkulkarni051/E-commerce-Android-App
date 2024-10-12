@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sports_entertainment"
+        android:title="Sports &amp; Entertainment"/>
+
+    <item android:id="@+id/dumbbells"
+        android:title="Dumbbells"/>
+
+    <item android:id="@+id/toys_games"
+        android:title="Toys &amp; Games"/>
+
+    <!-- Add more categories here -->
+    <item android:id="@+id/home_garden"
+        android:title="Home &amp; Garden"/>
+
+    <item android:id="@+id/remote_control_toys"
+        android:title="Remote Control Toys"/>
+
+    <item android:id="@+id/sports_outdoor"
+        android:title="Sports &amp; Outdoor"/>
+
+    <item android:id="@+id/learning_education"
+        android:title="Learning &amp; Education"/>
+
+    <item android:id="@+id/dolls_accessories"
+        android:title="Dolls &amp; Accessories"/>
+
+    <item android:id="@+id/electronic_toys"
+        android:title="Electronic Toys"/>
+
+    <item android:id="@+id/kids_gifts"
+        android:title="Kids Gifts"/>
+
+
+
+</menu>

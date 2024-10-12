@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ababilexpress-Multivendor</string>
+    <string name="authentication">Authentication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="subtotal_label">Sub total: %1$s</string>
+        <string name="cart_empty_message">Cart is empty</string>
+        <!-- Add other strings as needed -->
+
+</resources>
